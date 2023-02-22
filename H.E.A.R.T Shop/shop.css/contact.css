@@ -1,0 +1,221 @@
+
+#body {
+  background-color: #FFE3E1;
+}
+
+
+#title-grid{
+height: 20%;
+
+}
+
+#text-grid{
+margin-left: 150px;
+margin-top: 70px;
+height: 100%;
+width: 100%;
+text-align: center;
+
+}
+
+
+#line {
+  background-color: #FFD1D1;
+  color: #FFD1D1;
+  border: solid 2px #FFD1D1;
+  width: 75%;
+  align: center;
+}
+
+#title {
+  font-family: 'Crafty Girls', cursive;
+  font-size: 45px;
+  text-align: center;
+  color: #FF9494;
+  margin: 12px;
+  margin-top: 26px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+
+
+
+#sponsor-row{
+margin-top: 350px;
+
+
+}
+
+#sponsor-line1 {
+
+  background-color: #FFD1D1;
+  color: #FFD1D1;
+  border: solid 2px #FFD1D1;
+  width: 95%;
+  align: center;
+
+}
+
+.sponsor-line {
+margin-bottom: 75px;
+
+
+}
+
+#louis {
+margin-top: -45px;
+margin-left: -40px;
+width: 120px;
+height: 120px;
+
+}
+
+
+#gucci {
+margin-top: -30px;
+margin-left: -40px;
+width: 200px;
+height: 100px;
+
+}
+
+
+#h-and-m {
+margin-top: -30px;
+margin-left: -40px;
+width: 200px;
+height: 100px;
+
+}
+
+#zara {
+margin-top: -19px;
+margin-left: -35px;
+width: 200px;
+height: 100px;
+
+}
+
+#shein {
+margin-top: -23px;
+width: 200px;
+height: 105px;
+margin-right: 13px;
+}
+
+#amazon {
+margin-top: 10px;
+margin-left: 30px;
+width: 200px;
+height: 65px;
+
+}
+
+
+ul {
+  font-size: 150%;
+  font-family: 'Crafty Girls', cursive;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100vh;
+  background-color: #FFF5E4;
+  position: sticky;
+}
+
+li a {
+  display: block;
+  color: #FF9494;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+li a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+li a:hover:not(.active) {
+  background-color: #FF9494;
+  color: white;
+}
+
+#contacttitle {
+  font-family: 'Crafty Girls', cursive;
+  font-size: 45px;
+  text-align: center;
+  color: #FF9494;
+}
+
+#logoheart {
+width: 275px;
+height: 120px;
+margin-bottom: 15px;
+margin-left: 35px;
+margin-top: 30px;
+}
+
+#homeline {
+
+margin-bottom: 30px;
+background-color: #FFD1D1;
+width: 350px;
+color: #FFD1D1;
+border: solid 2px #FFD1D1;
+
+
+}
+
+
+#contactalready {
+
+  color: #FF9494;
+  font-size: 20px
+}
+
+
+#contactalready2 {
+
+  color: #FF9494;
+  font-size: 20px
+}
+
+#contactus4 {
+margin: 12px;
+font-size: 20px;
+}
+
+
+.container-fluid{
+
+margin: 0;
+
+}
+
+
+.container{
+  margin: 0;
+}
+
+p {
+  width: 100%;
+  color: #fff;
+  font-family: 'Crafty Girls', sans-serif;
+  font-size: 15px;
+  line-height: 150%;
+  letter-spacing: 2px;
+}
+
+#anything {
+
+background-color: #FFD1D1;
+}
+
+#contactimage {
+
+width: 225px;
+height: 250px;
+}

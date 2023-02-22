@@ -1,0 +1,168 @@
+
+
+
+
+#body {
+ background-color: #FFE3E1;
+ margin: 0;
+ }
+
+
+ #title {
+   font-family: 'Crafty Girls', cursive;
+   font-size: 45px;
+   text-align: center;
+   color: #FF9494;
+   margin: 12px;
+   margin-top: 26px;
+ }
+
+ #line {
+   background-color: #FFD1D1;
+   color: #FFD1D1;
+   border: solid 2px #FFD1D1;
+   width: 95%;
+   align: center;
+ }
+
+ .home-page-image {
+
+ margin-left: 350px;
+ }
+
+ #home-image {
+
+   border: 5px solid #FFF5E4;
+border-radius: 25px;
+ width: 75%;
+ height: 30%;
+ }
+
+#home-text {
+  font-family: 'Crafty Girls', cursive;
+  font-size: 25px;
+  text-align: center;
+  color: #FF9494;
+  margin: 12px;
+  margin-top: 26px;
+}
+
+
+
+#sponsor-row{
+margin-top: 350px;
+
+
+}
+
+#sponsor-line1 {
+
+  background-color: #FFD1D1;
+  color: #FFD1D1;
+  border: solid 2px #FFD1D1;
+  width: 95%;
+  align: center;
+
+}
+
+.sponsor-line {
+margin-bottom: 75px;
+
+
+}
+
+#louis {
+margin-top: -45px;
+margin-left: -40px;
+width: 120px;
+height: 120px;
+
+}
+
+
+#gucci {
+margin-top: -30px;
+margin-left: -40px;
+width: 200px;
+height: 100px;
+
+}
+
+
+#h-and-m {
+margin-top: -30px;
+margin-left: -40px;
+width: 200px;
+height: 100px;
+
+}
+
+#zara {
+margin-top: -19px;
+margin-left: -35px;
+width: 200px;
+height: 100px;
+
+}
+
+#shein {
+margin-top: -23px;
+width: 200px;
+height: 105px;
+margin-right: 13px;
+}
+
+#amazon {
+margin-top: 10px;
+margin-left: 30px;
+width: 200px;
+height: 65px;
+
+}
+
+#logoheart {
+width: 275px;
+height: 120px;
+margin-bottom: 15px;
+margin-left: 35px;
+margin-top: 30px;
+}
+
+#homeline {
+background-color: #FFD1D1;
+color: #FFD1D1;
+border: solid 2px #FFD1D1;
+height: 5px;
+margin-bottom: 30px;
+width: 350px;
+
+}
+
+ul {
+  font-size: 150%;
+  font-family: 'Crafty Girls', cursive;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 435%;
+  background-color: #FFF5E4;
+  position: sticky;
+}
+
+li a {
+  display: block;
+  color: #FF9494;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+li a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+li a:hover:not(.active) {
+  background-color: #FF9494;
+  color: white;
+}
